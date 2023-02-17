@@ -1,0 +1,10 @@
+#con .container{
+    height: 30px;
+    background-color: rgb(171, 41, 134);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 20;
+    font-style: 13px;
+}
